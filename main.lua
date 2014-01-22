@@ -1,13 +1,3 @@
--- Project: Star Explorer
--- Description:
---
--- Version: 1.0
--- Managed with http://OutlawGameTools.com
---
--- Copyright 2013 . All Rights Reserved.
----- cpmgen main.lua
-
-
 local physics = require("physics")
 physics.start()
 physics.setGravity( 0, 0 )
